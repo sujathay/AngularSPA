@@ -1,0 +1,54 @@
+﻿body {
+} 
+.nal-title-bar {
+    background-color: white;
+    padding: 0 20px;
+    border-bottom: 2px solid black;
+}
+
+.nal-title-area {
+    display: inline-block;
+}
+
+.nal-icon {
+    display: inline-block;
+    width: 50px;
+    height: 80px;
+    margin: 8px;
+    vertical-align: top;
+    border: 1px solid #999;
+}
+
+.nal-logo-area {
+    text-align: center;
+
+}
+
+.nal-logo-title {
+    color: #111;
+    margin-top: 6px;
+    font-size: 22px;
+}
+
+.nal-logo-subtitle {
+    font-size: 13px;
+    margin-top: -13px;
+}
+
+.nal-right-side-controls {
+    line-height: 60px;
+}
+
+    .nal-right-side-controls > div {
+        text-align: center;
+    }
+
+@media screen and (min-width:768px) {
+    .nal-right-side-controls > div {
+        text-align: right;
+    }
+
+    .nal-logo-area {
+        text-align: left;
+    }
+}

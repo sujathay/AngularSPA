@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title></title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="app/app.css" rel="stylesheet" />
+    <link href="ext-modules/nalMenu/MenuStyle.css" rel="stylesheet" />
+    <link href="ext-modules/nalFramework/nalFramework.css" rel="stylesheet" />
+    <script src="Scripts/jquery-2.1.4.js"></script>
+    <!--<script src="Scripts/angular.min.js"></script>-->
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-route.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+
+    <script src="ext-modules/nalFramework/nalFrameworkModule.js"></script>
+    <script src="app/appModule.js"></script>
+    <script src="app/appConfig.js"></script>
+
+    <script src="ext-modules/nalMenu/nalMenuModule.js"></script>
+    <script src="ext-modules/nalDashBoard/nalDashboardModule.js"></script>
+    <script src="ext-modules/nalFramework/nalFrameworkModule.js"></script>
+
+    <script src="ext-modules/nalMenu/nalMenuController.js"></script>
+    <script src="ext-modules/nalMenu/nalMenuDirective.js"></script>
+    <script src="ext-modules/nalFramework/nalFrameworkController.js"></script>
+    <script src="ext-modules/nalFramework/nalFrameworkDirective.js"></script>
+    <script src="ext-modules/nalMenu/nalMenuItemModule.js"></script>
+    <script src="ext-modules/nalMenu/nalMenuItemController.js"></script>
+    <script src="ext-modules/nalMenu/nalMenuItemDirective.js"></script>
+    <!--<script src="ext-modules/Sample/sampleModule.js"></script>
+     <!--
+    -->
+</head>
+<body>
+    <div>
+        <div class="navbar navbar-default ">
+            <div class="container-fluid">
+                <div class="row">
+                    <nal-framework title="Main Title"
+                                   subtitle="Sub title">
+                        <nal-menu>
+                            <nal-menu-item label="Dashboard" route="dashboard"></nal-menu-item>
+                            <nal-menu-item label="Locations" route="locations"></nal-menu-item>
+                            <nal-menu-item label="Guides" route="guides"></nal-menu-item>
+                        </nal-menu>
+                    </nal-framework> <!--Custom directive-->
+                </div>
+            </div>
+        </div>
+        <table class="table table-striped">
+            <thead><tr><td>Col1</td><td>Col 2</td></tr></thead>
+            <tr><td>dfdf</td><td>dddddddddddd</td></tr>
+            <tr><td>dfdf</td><td>dddddddddddd</td></tr>
+            <tr><td>dfdf</td><td>dddddddddddd</td></tr>
+
+        </table>
+        <!--<div ui-view="modal" autoscroll="false"></div>-->
+    </div>
+
+</body>
+</html>

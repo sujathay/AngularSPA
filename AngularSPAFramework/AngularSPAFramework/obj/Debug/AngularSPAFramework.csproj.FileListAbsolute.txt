@@ -1,0 +1,11 @@
+d:\project\AngularSPAFramework\AngularSPAFramework\AngularSPAFramework\bin\AngularSPAFramework.dll.config
+d:\project\AngularSPAFramework\AngularSPAFramework\AngularSPAFramework\bin\AngularSPAFramework.dll
+d:\project\AngularSPAFramework\AngularSPAFramework\AngularSPAFramework\bin\AngularSPAFramework.pdb
+d:\project\AngularSPAFramework\AngularSPAFramework\AngularSPAFramework\obj\Debug\AngularSPAFramework.csprojResolveAssemblyReference.cache
+d:\project\AngularSPAFramework\AngularSPAFramework\AngularSPAFramework\obj\Debug\AngularSPAFramework.dll
+d:\project\AngularSPAFramework\AngularSPAFramework\AngularSPAFramework\obj\Debug\AngularSPAFramework.pdb
+D:\Project\AngularSPAFramework\AngularSPAFramework\AngularSPAFramework\bin\Protractor.dll
+D:\Project\AngularSPAFramework\AngularSPAFramework\AngularSPAFramework\bin\WebDriver.dll
+D:\Project\AngularSPAFramework\AngularSPAFramework\AngularSPAFramework\bin\Protractor.pdb
+D:\Project\AngularSPAFramework\AngularSPAFramework\AngularSPAFramework\bin\Protractor.xml
+D:\Project\AngularSPAFramework\AngularSPAFramework\AngularSPAFramework\bin\WebDriver.xml
